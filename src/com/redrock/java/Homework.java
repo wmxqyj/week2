@@ -1,5 +1,6 @@
 package com.redrock.java;
 import java.util.Scanner;
+//经过多次尝试，发现无法写出来，就用之前的方式写了。之后会努力补齐进度的
 public class Homework {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
